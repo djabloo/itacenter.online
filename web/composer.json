@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pimcore-extensions/bootstrap": "^0.2.0"
+    }
+}
